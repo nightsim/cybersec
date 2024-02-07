@@ -6,3 +6,4 @@ Each script contains the scope in the comments in the header (usually) as commen
 
 DefaultPasswords: Contains a list of passwords or references to password lists
 Tools: random tools picked from other places or built specifically
+Random: just some random things built in specific cases, maybe sometimes useful...
